@@ -1,7 +1,6 @@
-package com.soroko.project.fitness;
+package fitness;
 
 import java.time.LocalDate;
-import java.time.LocalTime;
 import java.util.Objects;
 
 public class Subscription {

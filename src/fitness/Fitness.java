@@ -1,4 +1,4 @@
-package com.soroko.project.fitness;
+package fitness;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -6,7 +6,7 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Arrays;
 
-import static com.soroko.project.fitness.TypeOfSubscription.*;
+import static fitness.TypeOfSubscription.*;
 
 public class Fitness {
     private final int ZONE_SIZE = 20;

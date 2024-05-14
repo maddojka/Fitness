@@ -1,10 +1,15 @@
-package com.soroko.project.fitness;
+package fitness;
 
 import java.time.LocalDate;
-import java.time.LocalTime;
 
-import static com.soroko.project.fitness.TypeOfSubscription.*;
+import static fitness.TypeOfSubscription.*;
 
+/**
+ * Fitness logic goes here.
+ *
+ * @version 1.0 10 March 2024
+ * @author Yuriy Soroko
+ */
 
 public class Application {
     public static void main(String[] args) {

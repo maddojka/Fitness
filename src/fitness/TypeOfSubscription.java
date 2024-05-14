@@ -1,4 +1,4 @@
-package com.soroko.project.fitness;
+package fitness;
 
 import java.time.LocalTime;
 
